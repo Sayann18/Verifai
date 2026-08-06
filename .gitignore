@@ -1,5 +1,23 @@
+# .env
+# venv/
+# __pycache__/
+# *.pyc
+# .streamlit/secrets.toml
+
 .env
 venv/
 __pycache__/
 *.pyc
 .streamlit/secrets.toml
+node_modules/
+frontend/node_modules/
+dist/
+build/
+frontend/dist/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
